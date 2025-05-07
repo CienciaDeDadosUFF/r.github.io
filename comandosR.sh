@@ -19,5 +19,5 @@ git commit -m "Comentários aqui"
 git push
 
 #atualizar arquivos locais
-git pull origin R
+git pull 
 
